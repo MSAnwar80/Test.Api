@@ -1,1 +1,2 @@
 Change 1 after merge
+Added to master branch
