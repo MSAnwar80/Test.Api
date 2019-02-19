@@ -1,2 +1,3 @@
 line added in morning
+
 text added in second branch - orgin/master has other text
